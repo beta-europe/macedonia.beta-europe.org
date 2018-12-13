@@ -1,4 +1,4 @@
 ---
-title: Extended Board
-forum_group: BETA-Extended-Board
+title: Beta Macedonia Board
+forum_group: BETA-Macedonia
 ---

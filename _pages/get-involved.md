@@ -57,4 +57,4 @@ Not only would supporting the good cause add to your reputation, it will give yo
 
 With BETA and MEU, we do not just aim to have your partnership for just a conference as it does not reflect our long term strive for European unity. In fact we would be humbled if your partnership goes beyond MEU for any future events that could take place. 
 
-### If you wish to get more informations about partnership opportunities or you like the prospect of being our partner, contact us on [partners@meubratislava.eu](partners@meubratislava.eu).
+### If you wish to get more informations about partnership opportunities or you like the prospect of being our partner, contact us on [partner-email@example.eu](partner-email@example.eu).

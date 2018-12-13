@@ -10,25 +10,25 @@ header:
   _cta_label: "Join Our Network"
   _cta_url: "http://forum.beta-europe.org"
   caption: "Photo credit: [**MEUS 2015**](http://www.meu-strasbourg.org)"
-excerpt: "Bringing Europeans Together Association Czech Republic (BETA Czechia) is a politically independent, non-profit association aiming to organize simulations of European politics – Model European Union Prague.  "
+excerpt: "Bringing Europeans Together Association Macedonia (BETA Czechia) is a politically independent, non-profit association aiming to organize simulations of European politics – Model European Union (city).  "
 
 intro_01:
   - title: Our Association
     image_path: /assets/images/beta-logo-200-transparent.png
-    alt: "Logo of BETA Czech Republic"
+    alt: "Logo of BETA Macedonia"
     excerpt:
     |
-      Bringing European Together Association Czech Republic (BETA Czechia) is a young, politically independent, non-profit organisation founded in 2017 by 8 Europeans in Bratislava. As one of its 10 branches, we share the core objectives and values of the Bringing Europeans Together Association Europe. The BETA network constitutes of more than 1,500 youth of 33 nationalities and supports over 20 events worldwide.
+      Bringing European Together Association Macedonia (BETA Czechia) is a young, politically independent, non-profit organisation founded in 2017 by 8 Europeans in Bratislava. As one of its 10 branches, we share the core objectives and values of the Bringing Europeans Together Association Europe. The BETA network constitutes of more than 1,500 youth of 33 nationalities and supports over 20 events worldwide.
     url: "/ourteam/"
-    btn_label: "People behind BETA Czech Republic"
+    btn_label: "People behind BETA Macedonia"
     btn_class: "btn--primary"
 # intro_02:
 #   - title: Our Mission
 #     image_path: /assets/images/ourmission.jpeg
-#     alt: "Group Photo BETA Slovakia"
+#     alt: "Group Photo BETA Macedonia"
 #     excerpt:
 #     |
-#       Our mission is to promote European consciousness and identity based on plurality, tolerance and cooperation in Slovakia and beyond. We aim to further strengthen European civil society by developing critical thinking in young people through intercultural dialogue and informal education.
+#       Our mission is to promote European consciousness and identity based on plurality, tolerance and cooperation in Macedonia and beyond. We aim to further strengthen European civil society by developing critical thinking in young people through intercultural dialogue and informal education.
 #     url: "/about/"
 #     btn_label: "About Us"
 #    btn_class: "btn--primary"
@@ -38,7 +38,7 @@ intro_03:
     alt: "VeUMEU Group photo"
     excerpt:
     |
-      In order to achieve its goals, BETA Czech Republic organises MEU Prague in the Czech Republic.
+      In order to achieve its goals, BETA Macedonia organises MEU (city) in the Macedonia.
     _url: "/calendar/"
     _btn_label: "Conference Calendar"
     _btn_class: "btn--primary"
