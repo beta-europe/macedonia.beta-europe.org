@@ -10,13 +10,13 @@ minimal_mistakes_skin : "beta" # "default", "air", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "BETA Netherlands"
+title                    : "BETA Macedonia"
 title_separator          : "-"
-name                     : "Bringing Europeans Together Association Netherlands"
+name                     : "Bringing Europeans Together Association Macedonia"
 description              : "EU Politics Simulations"
-url                      : "https://netherlands.beta-europe.org"
+url                      : "https://Macedonia.beta-europe.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "beta-europe/netherlands.beta-europe.org"
+repository               : "beta-europe/Macedonia.beta-europe.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -86,11 +86,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "BETA Netherlands"
+  name             : "BETA Macedonia"
   avatar           :  # path of avatar image, e.g. "/assets/images/beta-logo-180-transparent.png"
-  bio              : "Bringing Europeans Together Association Netherlands"
-  location         : "The Hague, Netherlands"
-  email            : contact@netherlands.beta-europe.org
+  bio              : "Bringing Europeans Together Association Macedonia"
+  location         : "The Hague, Macedonia"
+  email            : contact@Macedonia.beta-europe.org
   uri              :
   bitbucket        :
   codepen          :
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         : "nlbeta"
   foursquare       :
-  github           : "orgs/beta-europe/teams/beta-netherlands"
+  github           : "orgs/beta-europe/teams/beta-Macedonia"
   gitlab           :
   google_plus      :
   keybase          :
