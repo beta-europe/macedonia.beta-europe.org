@@ -5,8 +5,5 @@ excerpt: About BETA Macedonia
 ---
 ![undefined](/assets/images/ourmission.jpeg)
 
-The Bringing Europeans Together Association (BETA) Macedonia is a politically independent, non-profit organisation. Being part of BETA family, we cooperate with many international institutions, therefore our reach is becoming increasingly widespread.
-
-With such support behind our backs, our mission is to promote European consciousness and identity based on plurality, tolerance and cooperation in Macedonia and beyond.We aim to strengthen European civil society by developing critical thinking in young people through intercultural dialogue and informal education. We strive to establish a strong tradition of organizing sustainable, professional and educational events about the EU politics to achieve this goal.
-
-We are kick starting this initiative with the Model European Union Bratislava 2018, an international simulation of the European Union's legislative process. The conference will allow young people from all over the continent to step into the shoes of the European Union's decision-makers, thus understanding how the organisation works through practicality.
+BETA Macedonia is a national youth association founded in October 2018. Their primary goal is the organization of Model European Union Skopje. They have launched high school and university meetings introducing the general public with its goals.
+Currently they are organizing Model European Union Skopje, and preparing for their project. BETA Macedonia is also a participant in other projects such as: increasing the awareness of the efficiency of public institutions, promoting European policies and values and increasing transparency in the country overall. Other than that BETA Macedonia is also involved in a number of activities for the local community.

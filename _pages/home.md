@@ -37,7 +37,7 @@ intro_03:
     alt: "Conference Chairs of Model EU Strasbourg 2017"
     excerpt:
     |
-      To pursue these goals, BETA organises simulations of the European legislative procedure called “Model European Union (MEU)” and supports other associations with the organisation of such conferences. Over the years, BETA has acquired a large and consistently increasing network of partner organisations that organise MEU conferences in various countries.
+      To pursue these goals, BETA organizes simulations of the European legislative procedure called “Model European Union (MEU)” and supports other associations with the organization of such conferences. Over the years, BETA has acquired a large and consistently increasing network of partner organizations that organize MEU conferences in various countries.
     url: "/calendar/"
     btn_label: "Conference Calendar"
     btn_class: "btn--primary"

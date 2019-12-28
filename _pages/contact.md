@@ -9,4 +9,4 @@ Our aim is to deliver you an unforgettable experience of non-formal education an
 
 ## Organizations
 
-Since Model European Union Bratislava 2018 is an international student initiative, its success depends heavily on your support and mutual cooperation of many parties. Therefore, the conference provides opportunities for companies, charities and institutions to participate in the programme, interact with our partners and promote themselves. For partnership and sponsorship enquiries or requests, please do not hesitate to send us an email to [partner-email@example.eu](partner-email@example.eu).
+Since Model European Union Bratislava 2018 is an international student initiative, its success depends heavily on your support and mutual cooperation of many parties. Therefore, the conference provides opportunities for companies, charities and institutions to participate in the program, interact with our partners and promote themselves. For partnership and sponsorship enquiries or requests, please do not hesitate to send us an email to [betamacedonia@gmail.com](betamacedonia@gmail.com).
