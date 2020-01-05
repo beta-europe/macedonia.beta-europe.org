@@ -6,7 +6,7 @@ twitter: BETA_Europe
 mail: contact@beta-europe.org
 excerpt: ''
 header:
-  teaser: /assets/images/beta_eu_logo_smol.png
+  teaser: /assets/images/partners-beta-europe.png
 ---
 <!--StartFragment-->
 
