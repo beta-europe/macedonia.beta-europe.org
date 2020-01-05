@@ -17,7 +17,7 @@ intro_01:
     alt: "BETA General Assembly 2015"
     excerpt:
     |
-      BETA Macedonia is a young, politically independent and non-profit association founded in 2018 by young Europeans in Delft, Macedonia. Today, BETA Macedonia counts already x members from all across Europe.
+      BETA Macedonia is a young, politically independent and non-profit association founded in 2018 by young Europeans in Skopje, Macedonia. Today, BETA Macedonia counts a large number of  members from all across Europe.
     url: "/contact/"
     btn_label: "People behind BETA"
     btn_class: "btn--primary"
@@ -37,7 +37,7 @@ intro_03:
     alt: "Conference Chairs of Model EU Strasbourg 2017"
     excerpt:
     |
-      To pursue these goals, BETA organizes simulations of the European legislative procedure called “Model European Union (MEU)” and supports other associations with the organization of such conferences. Over the years, BETA has acquired a large and consistently increasing network of partner organizations that organize MEU conferences in various countries.
+      To pursue these goals, BETA organises simulations of the European legislative procedure called “Model European Union (MEU)” and supports other associations with the organisation of such conferences. Over the years, BETA has acquired a large and consistently increasing network of partner organisations that organise MEU conferences in various countries.
     url: "/calendar/"
     btn_label: "Conference Calendar"
     btn_class: "btn--primary"
