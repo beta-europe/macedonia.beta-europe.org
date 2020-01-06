@@ -7,7 +7,7 @@ comments: true
 permalink: /signature-generator/
 ---
 
-The following tool is ment for BETA members to generate a standard-compliant email signature.
+The following tool is meant for BETA members to generate a standard-compliant email signature.
 
 <style>
 form {
@@ -99,7 +99,7 @@ My question is not covered here. What should I do?
           var twitter = "@"+response.data.user.user_fields["1"];
           var linkedIn = response.data.user.user_fields["3"];
           var facebook = response.data.user.user_fields["4"];
-          this.signature = `-- 
+          this.signature = `--
 BETA e.V., ${title}
 🌐 http://www.beta-europe.org
 📧 ${this.username}@beta-europe.org
