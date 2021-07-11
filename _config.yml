@@ -14,9 +14,9 @@ title                    : "BETA Macedonia"
 title_separator          : "-"
 name                     : "Bringing Europeans Together Association Macedonia"
 description              : "EU Politics Simulations"
-url                      : "https://Macedonia.beta-europe.org"
+url                      : "https://macedonia.beta-europe.org"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "beta-europe/Macedonia.beta-europe.org"
+repository               : "beta-europe/macedonia.beta-europe.org"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -98,7 +98,7 @@ author:
   flickr           :
   facebook         : "nlbeta"
   foursquare       :
-  github           : "orgs/beta-europe/teams/beta-Macedonia"
+  github           : "orgs/beta-europe/teams/beta-macedonia"
   gitlab           :
   google_plus      :
   keybase          :
